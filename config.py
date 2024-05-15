@@ -1,7 +1,7 @@
 import requests
 import  exceptions as exp
 import json
-token = '6615591356:AAFphtgLE5mAFGcw3GNoTTGKKfsyQ-0gDHw'
+token = 'YOUR TOKEN'
 
 currency = {'биткоин': 'BTC',
             'эфирум': 'ETH',
